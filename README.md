@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mmartin2022
-- 👀 I’m interested in ...Learning DevOps
+- 👀 I’m interested in ...Learning GitHub, DevOps
 - 🌱 I’m currently learning ...DevOps/Microsoft Bicep
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
